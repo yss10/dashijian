@@ -20,7 +20,6 @@ function getUserInfo() {
             }
             return renderAvatar(res.data)
         },
-
     })
 }
 
